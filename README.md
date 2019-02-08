@@ -1,6 +1,3 @@
-# Device_tracking
 
-Predict and forecast the device future coordinates in 3 dimensional space. 
-
-
+Data processing and Deep RNN for time series prediction and forecasting problems
 
